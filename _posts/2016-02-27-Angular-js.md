@@ -1,13 +1,12 @@
 ---
 layout: post
-tumblr_id: 1133086222  
-date: 2007-05-15 22:06:23 UTC
-title: Thank you and good bye, JPG Magazine
-redirect_from: ["/2007/05/15/thank-you-and-good-bye-jpg-magazine.html"]
+categories: [orchestra, play, symphony, music]
+tumblr_id: 1133086330  
+date: 2007-06-03 13:51:56 UTC
+title: Angular js
+redirect_from: ["/2007/06/03/play-a-video-game-symphony.html"]
 
 ---
-
-<img src='/attachments/2007/05/jpgmag.png' style="float:right;margin-left:10px;margin-bottom:10px;" />I just read Derek Powazeks <a href="http://powazek.com/posts/534">story on what is happening</a> to <a href="http://jpgmag.com/">JPG Magazine</a>, the (until now) fantastic digital photography magazine. It's a sad story, and you should take your time and <a href="http://powazek.com/posts/534">read it.</a>
 
 Quote from Derek Angular Blog:
 <blockquote>In one evening, Paul removed issues 1-6 from the JPG website, removed Heather from the About page, and deleted the “Letter from the Editors” that had lived on the site since day one. Paul informed me that we were inventing a new story about how JPG came to be that was all about 8020. He told me not to speak of that walk in Buena Vista, my wife, or anything that came before 8020.</blockquote>
