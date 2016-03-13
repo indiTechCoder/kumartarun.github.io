@@ -1,29 +1,5 @@
-# My Blog using Jekyll
+# Raybo.org
 
+This is the official repo for raybo.org, the official blog of Ray Villalobos, Staff author at Lynda.com. It's sort of a list of my projects and migth also have more personal posts.
 
-This is where I settle down to write down my thoughts. Sometimes it's a helpful tip, sometimes an idea and sometimes just a random thought. There's only one thing I can guarantee: Before you become bored, the hell will freeze over.
-
-So I guess there's only one thing left to clarify. And that's why the fuck I'm hosting my site here, in a repository on a collaborating platform for code: Because it's so convenient. I don't need to worry about deployment and at the same time, people can access all of my stuff without detours.
-
-
-
-Clone it
-
-```sh
-git clone https://github.com/kumartarun/kumartarun.github.io.git
-```
-
-Install Jekyll and a special gem from GitHub
-
-```sh
-gem install jekyll github-pages
-https://jekyllrb.com/docs/sites/
-```
-
-Run Jekyll within the repo! :dizzy:
-
-```sh
-cd leo.github.io
-jekyll serve --watch
-https://jekyllrb.com/docs/sites/
-```
+Based on[Fork this repository](https://github.com/dirkfabisch/mediator)
