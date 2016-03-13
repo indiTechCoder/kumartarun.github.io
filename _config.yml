@@ -5,30 +5,30 @@ redcarpet:
 sass:
   style: expanded
 # Site settings
-title: "Raybo.org"
+title: "tkssharma.io"
 tagline: "Learn practical web skills"
-description: "The website for Ray Villalobos, helping improve lives by teaching front-end web skills with a clear, practical style."
-email: ray@planetoftheweb.com
-twitteruser: "@planetoftheweb"
+description: "The website from tarun sharma, helping improve lives by teaching front-end web skills with a clear, practical style."
+email: tkssharma@gmail.com
+twitteruser: "@tkssaharma"
 logo: "/assets/images/powship.png" #blog logo
 cover: "/assets/images/hero.jpg" # blog cover
 
 author:
-  firstname: "Ray"
-  name: "Ray Villalobos"
-  bio: "Christian. Father of 8. I love to help people improve their lives by learning front-end design and full stack development skills with a clear, practical approach."
+  firstname: "Tarun"
+  name: "Tarun Sharma"
+  bio: "Tarun Sharma is developer published and trainer to provide training to javascript and java developers"
 
 author_image: "/assets/images/author.jpg"
 ldcjsonfeed: http://planetoftheweb.com/i/courses.php?author=832401&limit=0&filter.includes=Title,ShortDescription,DurationInSeconds,URLs,ID,WelcomeVideoId,Thumbnails.filename
 
 paginate:	5
 
-url: "http://raybo.org" # the base hostname & protocol for your site
+url: "http://tkssharma.github.io" # the base hostname & protocol for your site
 
 # social icons and sharing options
 social:
   - icon:	twitter
-    url:	https://twitter.com/planetoftheweb
+    url:	https://twitter.com/tkssharma
     desc: Follow me on twitter
     share_url: http://twitter.com/share
     share_title: ?text=
@@ -42,25 +42,25 @@ social:
     share_link: "&amp;u="
 
   - icon: linkedin
-    url:  https://linkedin.com/in/planetoftheweb
+    url:  https://in.linkedin.com/in/tarun-sharma-03790254
     desc: Connect with me on LinkedIn
 
   - icon:	github
-    url:	https://github.com/planetoftheweb
+    url:	https://github.com/tkssharma
     desc:	Fork me on github
 
   - icon:	google-plus
-    url:	https://plus.google.com/+RayVillalobos0
+    url:	https://plus.google.com/107471860931223719295/
     desc:	Add me on google+
 
   - icon:	dribbble
-    url:	https://dribbble.com/planetoftheweb
+    url:	#
     desc:	Follow me on dribbble
 
   - icon:	flickr
-    url:	https://www.flickr.com/photos/planetoftheweb/sets/72157602932636630/
+    url:	#
     desc:	My flickr portfolio
 
   - icon:	youtube
-    url:	https://www.youtube.com/user/planetoftheweb
+    url:	https://gennexttraining.herokuapp.com/#/
     desc:	Subscribe to my youtube channel
