@@ -3,7 +3,7 @@
     "ID": "VKtlG5Ke320",
     "DurationInSeconds": 8587,
     "Title": "Node JS top to Bottom",
-    "Description": "<p>MongoDB and Node.js are often used together because of their shared use of JavaScript and its object notation (JSON). JSON is quickly becoming the standard data format for web APIs and, as such, these two technologies are growing in popularity. Mongoose is an object data modeling (ODM) library that provides a rigorous modeling environment for your data, enforcing structure as needed while still maintaining the flexibility that makes MongoDB powerful.</p>"
+    "Description": "<p>MongoDB and Node.js are often used together because of their shared use of JavaScript and its object notation (JSON). JSON is quickly becoming the standard data format for web APIs and, as such, these two technologies are growing in popularity. Mongoose is an object data modeling (ODM) library that provides a rigorous modeling environment for your data, enforcing structure as needed while still maintaining the flexibility that makes MongoDB powerful.</p>",
       "Thumbnails" : [
         { "FullURL": "https://s3-eu-west-1.amazonaws.com/ubmas-bucket/tmp/main-nodejs.jpg"},
         { "FullURL": "https://s3-eu-west-1.amazonaws.com/ubmas-bucket/tmp/main-nodejs.jpg"}
@@ -12,12 +12,12 @@
       "www.youtube.com": "/CSS-tutorials/Building-Responsive-Single-Page-Design-PostCSS/417644-2.html"
     },
     "WelcomeVideoId": "PLIGDNOJWiL18FF0_8WHcpb3zY__eIW0G7"
-  }
+  },
    {
     "ID": "oc_Aet6_80M",
     "DurationInSeconds": 8587,
     "Title": "Angular 2.0 Training  Series ",
-    "Description": "<p>MongoDB and Node.js are often used together because of their shared use of JavaScript and its object notation (JSON). JSON is quickly becoming the standard data format for web APIs and, as such, these two technologies are growing in popularity. Mongoose is an object data modeling (ODM) library that provides a rigorous modeling environment for your data, enforcing structure as needed while still maintaining the flexibility that makes MongoDB powerful.</p>"
+    "Description": "<p>MongoDB and Node.js are often used together because of their shared use of JavaScript and its object notation (JSON). JSON is quickly becoming the standard data format for web APIs and, as such, these two technologies are growing in popularity. Mongoose is an object data modeling (ODM) library that provides a rigorous modeling environment for your data, enforcing structure as needed while still maintaining the flexibility that makes MongoDB powerful.</p>",
       "Thumbnails" : [
         { "FullURL": "https://s3-eu-west-1.amazonaws.com/ubmas-bucket/tmp/main-nodejs.jpg"},
         { "FullURL": "https://s3-eu-west-1.amazonaws.com/ubmas-bucket/tmp/main-nodejs.jpg"}
