@@ -1,5 +1,5 @@
-# Raybo.org
+# kumartarun.github.io
 
-This is the official repo for raybo.org, the official blog of Ray Villalobos, Staff author at Lynda.com. It's sort of a list of my projects and migth also have more personal posts.
+This is the official repo for @tkssharma, the official blog of Tarun Sahrma, Developer at UnitedHealth Group.
 
-Based on[Fork this repository](https://github.com/dirkfabisch/mediator)
+Based on[Fork this repository](https://github.com/kumartarun)
