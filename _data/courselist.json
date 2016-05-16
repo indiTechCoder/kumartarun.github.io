@@ -67,5 +67,23 @@
             "www.youtube.com": "/CSS-tutorials/Building-Responsive-Single-Page-Design-PostCSS/417644-2.html"
             },
             "WelcomeVideoId": "PLIGDNOJWiL18sprMVE4h0AH-VnSGGOct7"
-          }
+          },
+          {
+  "ID": "7hcfHyG0Inw",
+  "DurationInSeconds": 8587,
+  "Title": "React JS Training series : Everything about React with ES6",
+  "ShortDescription" : "React is a library developed by Facebook, and it is designed to build large applications with data that changes over time. Developers can use ReactJS to create user interfaces (UI) with high performance, where React would automatically manage all UI updates. React is all about building reusable web components, and it also renders on the server using Node.js. Learn ReactJS through online Learning Center, where you can find tutorials, videos, guides, and ReactJS tips & tricks from experienced ReactJS developers.",
+  "Description": "<p>eact.js is a JavaScript Library developed by Facebook that functions as the V in an MVC. Known for its fast performance with a Virtual DOM, React.js is especially ideal for building mobile sites. What's more, since you can run React.js on the server, it's more SEO-friendly than other JavaScript Frameworks available. If you don't know JavaScript yet, you should probably start out with learning JavaScript.
+To get a taste of how React works beyond a simple HelloWorld app, Facebook's official tutorial will teach you how to build your own realtime comment box with React. Once you have a feel for the library, you can go deeper and read the guides on how to build interactive and dynamic UI, form components, and more.
+
+If you're building a website that deals with dynamic data, it is highly recommended you follow the Flux architectural design, which promotes a single directional dataflow. When React is used with Flux, it brings you the functionality of an MVC. However, according to Facebook, current MVCs don't scale well with building additional features to a large codebase, so React + Flux was their solution.</p>",
+  "Thumbnails" : [
+  { "FullURL": "https://s3-eu-west-1.amazonaws.com/ubmas-bucket/tmp/main-react.jpg"},
+  { "FullURL": "https://s3-eu-west-1.amazonaws.com/ubmas-bucket/tmp/main-react.jpg"}
+  ],
+  "URLs": {
+    "www.youtube.com": "/CSS-tutorials/Building-Responsive-Single-Page-Design-PostCSS/417644-2.html"
+    },
+    "WelcomeVideoId": "PLIGDNOJWiL1_2CpDKGg4-jNPqoirutxc5"
+    }
           ]
