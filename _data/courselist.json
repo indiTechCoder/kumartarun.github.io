@@ -40,7 +40,7 @@
         {
           "ID": "p_ks0FzrcnI",
           "DurationInSeconds": 8587,
-          "Title": "Node JS top to Bottom",
+          "Title": "ES6 javascript coming version of Javascript es2015",
           "ShortDescription" : "ES6 is a significant update to the language, and the first update to the language since ES5 was standardized in 2009. Implementation of these features in major JavaScript engines is underway now. See the ES6 standard for full specification of the ECMAScript 6 language",
           "Description": "JavaScript has come a long ways in its 20 years of existence. It’s grown from a language used to define a few variables and functions to one that can be used to build robust applications on the client-side and server-side. Although it’s popularity continues to grow in large part due to its dynamic nature and ability to run anywhere, JavaScript as a language is still missing many key features that could help increase developer productivity and provide a more maintainable code base. Fortunately, ECMAScript 6 (ES6) adds many new features that will take the language to the next level.
           This is the first post in a series I’ll be writing that will walk through key features in ES6 and explain how they can be used. I’ll also introduce tools and other languages along the way that can be used to work with ES6 in different browsers as well as on the server-side with frameworks like Node.js. The goal of this first post is to discuss the viability of using ES6 today and point out resources that can help you get started using it. Let’s kick things off by talking about a few of the key features in ES6.
