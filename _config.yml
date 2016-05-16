@@ -8,7 +8,7 @@ sass:
 title: "tkssharma.io"
 tagline: "Learn practical web skills"
 description: "The website from tarun sharma, helping improve lives by teaching front-end web skills with a clear, practical style."
-email: tkssharma@gmail.com
+email: tarun.softengg@gmail.com
 twitteruser: "@tkssaharma"
 logo: "/assets/images/powship.png" #blog logo
 cover: "/assets/images/hero.jpg" # blog cover
@@ -23,7 +23,7 @@ ldcjsonfeed: http://planetoftheweb.com/i/courses.php?author=832401&limit=0&filte
 
 paginate:	5
 
-url: "http://tkssharma.github.io" # the base hostname & protocol for your site
+url: "http://kumartarun.github.io" # the base hostname & protocol for your site
 
 # social icons and sharing options
 social:
@@ -62,5 +62,5 @@ social:
     desc:	My flickr portfolio
 
   - icon:	youtube
-    url:	https://gennexttraining.herokuapp.com/#/
+    url:	https://www.youtube.com/user/vibbbbbba/playlists
     desc:	Subscribe to my youtube channel
