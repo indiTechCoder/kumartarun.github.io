@@ -11,7 +11,7 @@
     	{% for category in site.categories %}
         {% assign cat =  category | first %}
           <li {% if cat == page.category or cat == page.page_id %}class="active"{% endif %}>
-            <a href="/{{ category | first }}">
+            <a href="/{{ category | first }}/index.html">
               {% case cat %}
               <span class="icon">
                 {% when 'talks' %}
