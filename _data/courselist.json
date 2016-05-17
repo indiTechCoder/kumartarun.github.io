@@ -98,8 +98,8 @@
     "ID": "OgFGKHjeQRc",
     "DurationInSeconds": 8587,
     "Title": "understanding Javascript promises with RX JS",
-    "ShortDescription": "Promises can replace the asynchronous use of callbacks, and they provide several benefits over them. They start to gain ground as more and more libraries and frameworks embrace them as their primary way to handle asynchronicity. Ember.js is a great example of such a framework.",
-    "Description": "<p>Promises arrive in JavaScript! Promises have been around for a while in the form of libraries, such as:<br/>Q<br/>when<br/>WinJS<br/> RSVP.js<br/> The above and JavaScript promises share a common, standardised behaviour called Promises/A+. If you're a jQuery user, they have something similar called Deferreds. However, Deferreds aren't Promise/A+ compliant, which makes them subtly different and less useful, so beware. jQuery also has a Promise type, but this is just a subset of Deferred and has the same issues.</p>",
+    "ShortDescription": "Promises can replace the asynchronous use of callbacks",
+    "Description": "<p>Promises can replace the asynchronous use of callbacks</p>",
     "Thumbnails": [
       {
         "FullURL": "https://s3-eu-west-1.amazonaws.com/ubmas-bucket/tmp/main-promises.jpg"
@@ -117,8 +117,8 @@
     "ID": "E6D5_Ai0x6M",
     "DurationInSeconds": 8587,
     "Title": "Angular 2.0 Beginner Course",
-    "ShortDescription": "Angular 2 is the next version of Googles massively popular MV* framework for building complex applications in the browser (and beyond).Angular 2 comes with almost everything you need to build a complicated frontend web or mobile apps, from powerful templates to fast rendering, data management, HTTP services, form handling, and so much more.",
-    "Description": "<p>A full framework with support for forms, http requests, and much more. It’s a complete toolkit to building a web app ES6 and TypeScript compatible meaning that it plays well with ES6 modules, class systems, and has type support. Smart Dependency Injection which can be used to pass in classes and services with specific configuration (across the app) or pass them to be named and used under a different name. Yet, you can still use your ES6 modules for anything that doesn’t fit the DI scheme. You also use have to inject directives for templating.                           Powerful templating that’s essentially HTML with sugar syntax that allows you to take advantage of two-way binding, events, etc. right in your templates. Built-in directives allow for even more powerful templating with foreach loops (for of), ngIf and others.                           Modular. Angular 2 is broken down to numerous sub-packages                           Angular Universal. A project that allows sharing Angular code between various platforms. There is work to make Angular work on the back-end and with NativeScript as part of app development. </p>",
+    "ShortDescription": "Angular 2 is the next version of Googles massively popular MV* framework ",
+    "Description": "<p>Angular 2 is the next version of Googles massively popular MV* framework </p>",
     "Thumbnails": [
       {
         "FullURL": "https://s3-eu-west-1.amazonaws.com/ubmas-bucket/tmp/angular2-main.jpg"
