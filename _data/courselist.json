@@ -17,5 +17,62 @@
       "www.youtube.com": "/CSS-tutorials/Building-Responsive-Single-Page-Design-PostCSS/417644-2.html"
     },
     "WelcomeVideoId": "PLIGDNOJWiL18FF0_8WHcpb3zY__eIW0G7"
+  },
+  {
+    "ID": "oc_Aet6_80M",
+    "DurationInSeconds": 8587,
+    "Title": "Angular 2.0 Training  Series ",
+    "ShortDescription": "Develop Across All Platforms Learn one way to build applications with Angular and reuse your code and abilities to build apps for any deployment target. For web, mobile web, native mobile and native desktop.",
+    "Description": "<p>Why Angular 2.0?</p><br/>       <p>Before getting into further discussion about Angular 2.0 (which has an estimated release date of the end of 2015), let’s briefly consider the philosophy behind the new version. Angular 2.0 development was started to address the following concerns:</p>       <p>Mobile<br/>       The new Angular version will be focused on the development of mobile apps. The rationale is that it’s easier to handle the desktop aspect of things, once the challenges related to mobile (performance, load time, etc.) have been addressed.       Modular<br/>       Various modules will be removed from Angular’s core, resulting in better performance. These will find their way into Angular’s ever-growing ecosystem of modules, meaning you’ll be able to pick and choose the parts you need.       Modern<br/>       Angular 2.0 will target ES6 and “evergreen” modern browsers (those automatically updated to the latest version). Building for these browsers means that various hacks and workarounds that make Angular harder to develop can be eliminated allowing developers to focus on the code related to their business domain.<p>",
+    "Thumbnails": [
+      {
+        "FullURL": "https://s3-eu-west-1.amazonaws.com/ubmas-bucket/tmp/main-angular.jpg"
+      },
+      {
+        "FullURL": "https://s3-eu-west-1.amazonaws.com/ubmas-bucket/tmp/main-angular.jpg"
+      }
+    ],
+    "URLs": {
+      "www.youtube.com": "/CSS-tutorials/Building-Responsive-Single-Page-Design-PostCSS/417644-2.html"
+    },
+    "WelcomeVideoId": "PLIGDNOJWiL18kc871H8_u4p1NYgpXXF0p"
+  },
+  {
+    "ID": "p_ks0FzrcnI",
+    "DurationInSeconds": 8587,
+    "Title": "ES6 javascript coming version of Javascript es2015",
+    "ShortDescription": "ES6 is a significant update to the language, and the first update to the language since ES5 was standardized in 2009. Implementation of these features in major JavaScript engines is underway now. See the ES6 standard for full specification of the ECMAScript 6 language",
+    "Description": "JavaScript has come a long ways in its 20 years of existence. It’s grown from a language used to define a few variables and functions to one that can be used to build robust applications on the client-side and server-side. Although it’s popularity continues to grow in large part due to its dynamic nature and ability to run anywhere, JavaScript as a language is still missing many key features that could help increase developer productivity and provide a more maintainable code base. Fortunately, ECMAScript 6 (ES6) adds many new features that will take the language to the next level.           This is the first post in a series I’ll be writing that will walk through key features in ES6 and explain how they can be used. I’ll also introduce tools and other languages along the way that can be used to work with ES6 in different browsers as well as on the server-side with frameworks like Node.js. The goal of this first post is to discuss the viability of using ES6 today and point out resources that can help you get started using it. Let’s kick things off by talking about a few of the key features in ES6.           Key Features in ES6           So what are some of the key features in ES6? Here’s a list of some of my favorites:           Arrow functions – A short-hand version of an anonymous function.           Block-level scope – ES6 now supports scoping variables to blocks (if, for, while, etc.) using the let keyword.           Classes – ES6 classes provide a way to encapsulate and extend code.           Constants – You can now define constants in ES6 code using the const keyword.           Default parameters – Ever wished that a function parameter could be assigned a default value? You can do that now in ES6.           Destructuring – A succinct and flexible way to assign values from arrays or objects into variables.           Generators – Specialized functions that create iterators using function* and the yield keyword.           Map – Dictionary type object that can be used to store key/value pairs.           Modules – Provides a modular way of organizing and loading code.           Promises – Used with async operations.           Rest parameters – Replaces the need for using arguments to access functions arguments. Allows you to get to an array representing “the rest of the parameters”.           Set – A collection object that can be used to store a list of data values.           Template Strings – Clean way to build up string values.",
+    "Thumbnails": [
+      {
+        "FullURL": "https://s3-eu-west-1.amazonaws.com/ubmas-bucket/tmp/main-es6+javascript"
+      },
+      {
+        "FullURL": "https://s3-eu-west-1.amazonaws.com/ubmas-bucket/tmp/main-es6+javascript"
+      }
+    ],
+    "URLs": {
+      "www.youtube.com": "/CSS-tutorials/Building-Responsive-Single-Page-Design-PostCSS/417644-2.html"
+    },
+    "WelcomeVideoId": "PLIGDNOJWiL18sprMVE4h0AH-VnSGGOct7"
+  },
+  {
+    "ID": "7hcfHyG0Inw",
+    "DurationInSeconds": 8587,
+    "Title": "React JS Training series : Everything about React with ES6",
+    "ShortDescription": "React is a library developed by Facebook, and it is designed to build large applications with data that changes over time. Developers can use ReactJS to create user interfaces (UI) with high performance, where React would automatically manage all UI updates. React is all about building reusable web components, and it also renders on the server using Node.js. Learn ReactJS through online Learning Center, where you can find tutorials, videos, guides, and ReactJS tips & tricks from experienced ReactJS developers.",
+    "Description": "<p>eact.js is a JavaScript Library developed by Facebook that functions as the V in an MVC. Known for its fast performance with a Virtual DOM, React.js is especially ideal for building mobile sites. What's more, since you can run React.js on the server, it's more SEO-friendly than other JavaScript Frameworks available. If you don't know JavaScript yet, you should probably start out with learning JavaScript.               To get a taste of how React works beyond a simple HelloWorld app, Facebook's official tutorial will teach you how to build your own realtime comment box with React. Once you have a feel for the library, you can go deeper and read the guides on how to build interactive and dynamic UI, form components, and more.                If you're building a website that deals with dynamic data, it is highly recommended you follow the Flux architectural design, which promotes a single directional dataflow. When React is used with Flux, it brings you the functionality of an MVC. However, according to Facebook, current MVCs don't scale well with building additional features to a large codebase, so React + Flux was their solution.</p>",
+    "Thumbnails": [
+      {
+        "FullURL": "https://s3-eu-west-1.amazonaws.com/ubmas-bucket/tmp/main-react.jpg"
+      },
+      {
+        "FullURL": "https://s3-eu-west-1.amazonaws.com/ubmas-bucket/tmp/main-react.jpg"
+      }
+    ],
+    "URLs": {
+      "www.youtube.com": "/CSS-tutorials/Building-Responsive-Single-Page-Design-PostCSS/417644-2.html"
+    },
+    "WelcomeVideoId": "PLIGDNOJWiL1_2CpDKGg4-jNPqoirutxc5"
   }
-  ]
+]

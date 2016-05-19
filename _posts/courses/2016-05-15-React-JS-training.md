@@ -1,9 +1,8 @@
 ---
-courseid: VKtlG5Ke320
+courseid: 7hcfHyG0Inw
 layout: course
 category: courses
 tags:
-- Node js
 - React 
 - Angular
 - Web components
