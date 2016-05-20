@@ -248,5 +248,36 @@ Utilities<br/></p>",
       "www.youtube.com": "/CSS-tutorials/Building-Responsive-Single-Page-Design-PostCSS/417644-2.html"
     },
     "WelcomeVideoId": "PLIGDNOJWiL18vzVelXE7qbNYuJCkdg9Wp"
+  },
+    {
+    "ID": "zvDub5xvP4w",
+    "DurationInSeconds": 8587,
+    "Title": "Node JS for Beginners",
+    "ShortDescription": "Node.js® is a JavaScript runtime built on Chrome's V8 JavaScript engine. Node.js uses an event-driven, non-blocking I/O model that makes it lightweight and efficient. Node.js' package ecosystem, npm, is the largest ecosystem of open source libraries in the world.",
+    "Description": "<p> Learn all about Node.js and start creating JavaScript applications in this course with Tarun Sharma. He shows how to install Node.js on Mac, Windows, and Linux and dives deep into its modules and Express framework for app development. Learn how to unit test your code, start sessions on web servers, stream data, and create simple command-line tools.
+Topics include:<br/>
+Why use Node.js?<br/>
+Installing Node.js<br/>
+Understanding the event loop<br/>
+Initializing Node.js projects<br/>
+Creating modules with getters and setters<br/>
+Starting Express applications<br/>
+Testing your code<br/>
+Working with sessions and databases<br/>
+Building command-line tools<br/>
+Emitting events and attaching listeners<br/>
+Controlling readable streams<br/></p>",
+    "Thumbnails": [
+      {
+        "FullURL": "https://s3-eu-west-1.amazonaws.com/ubmas-bucket/tmp/main-nodebginner.jpg"
+      },
+      {
+        "FullURL": "https://s3-eu-west-1.amazonaws.com/ubmas-bucket/tmp/main-nodebginner.jpg"
+      }
+    ],
+    "URLs": {
+      "www.youtube.com": "/CSS-tutorials/Building-Responsive-Single-Page-Design-PostCSS/417644-2.html"
+    },
+    "WelcomeVideoId": "PLIGDNOJWiL19JkDXy0bUmdKkuFgk-yhCy"
   }
 ]
