@@ -170,5 +170,24 @@
       "www.youtube.com": "/CSS-tutorials/Building-Responsive-Single-Page-Design-PostCSS/417644-2.html"
     },
     "WelcomeVideoId": "PLIGDNOJWiL18o8dJNgIPeZQuUJYInbJTq"
+  },
+      {
+    "ID": "DACmdCHYxA8",
+    "DurationInSeconds": 8587,
+    "Title": "Mongo DB  Quick Introduction ",
+    "ShortDescription": "Mongo DB  Quick Introduction",
+    "Description": "<p>This tutorial is designed for Software Professionals who are willing to learn MongoDB Database in simple and easy steps. This tutorial will give you great understanding on MongoDB concepts and after completing this tutorial you will be at intermediate level of expertise from where you can take yourself at higher level of expertise.</p>",
+    "Thumbnails": [
+      {
+        "FullURL": "https://s3-eu-west-1.amazonaws.com/ubmas-bucket/tmp/mongodb-main.png"
+      },
+      {
+        "FullURL": "https://s3-eu-west-1.amazonaws.com/ubmas-bucket/tmp/mongodb-main.png"
+      }
+    ],
+    "URLs": {
+      "www.youtube.com": "/CSS-tutorials/Building-Responsive-Single-Page-Design-PostCSS/417644-2.html"
+    },
+    "WelcomeVideoId": "PLIGDNOJWiL1-tPts6VCiUriv54_Kbl2V3"
   }
 ]
