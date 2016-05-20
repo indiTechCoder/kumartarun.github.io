@@ -150,5 +150,25 @@
       "www.youtube.com": "/CSS-tutorials/Building-Responsive-Single-Page-Design-PostCSS/417644-2.html"
     },
     "WelcomeVideoId": "PLIGDNOJWiL186hYSyAdPdTzXR9fcW7zj9"
+  },
+    {
+    "ID": "fsMqPQeHj4M",
+    "DurationInSeconds": 8587,
+    "Title": "Bootstrap responsive design with angular js ",
+    "ShortDescription": "UI Bootstrap Bootstrap components written in pure AngularJS by the AngularUI Team",
+    "Description": "<p>Bootstrap and Angular are tools that a great number of people use. Often times, they are used together in projects. And why shouldn’t they be? They are both incredible tools that have changed the way CSS and JS work on the frontend.
+     There is a problem when using them together though, specifically when you try to bring in the Bootstrap JavaScript components into an Angular project. When building out Angular projects, you should not add on the full jQuery library. jQlite is already included in Angular and this should be all the jQuery that is necessary. This is an important concept to grasp since bringing jQuery into your Angular project will make it harder for you to fully grasp the power of Angular and its data-binding goodness</p>",
+    "Thumbnails": [
+      {
+        "FullURL": "https://s3-eu-west-1.amazonaws.com/ubmas-bucket/tmp/main-bootstrap.png"
+      },
+      {
+        "FullURL": "https://s3-eu-west-1.amazonaws.com/ubmas-bucket/tmp/main-bootstrap.png"
+      }
+    ],
+    "URLs": {
+      "www.youtube.com": "/CSS-tutorials/Building-Responsive-Single-Page-Design-PostCSS/417644-2.html"
+    },
+    "WelcomeVideoId": "PLIGDNOJWiL18o8dJNgIPeZQuUJYInbJTq"
   }
 ]
