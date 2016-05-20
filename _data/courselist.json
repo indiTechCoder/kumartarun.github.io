@@ -218,4 +218,35 @@ which simplifies and accelerates web application development.",
     },
     "WelcomeVideoId": "PLIGDNOJWiL19vi9ZX3IiXnDb9Yb95Pzh8"
   }
+    {
+    "ID": "17gpncrCKV8",
+    "DurationInSeconds": 8587,
+    "Title": "JQuery in web development ",
+    "ShortDescription": "jQuery is a JavaScript Library.
+jQuery greatly simplifies JavaScript programming.
+jQuery is easy to learn.",
+    "Description": "<p>jQuery is a lightweight JavaScript library.
+The purpose of jQuery is to make it much easier to use JavaScript on your website.
+jQuery takes a lot of common tasks that require many lines of JavaScript code to accomplish, and wraps them into methods that you can call with a single line of code.
+jQuery also simplifies a lot of the complicated things from JavaScript, like AJAX calls and DOM manipulation.
+The jQuery library contains the following features:<br/>
+HTML/DOM manipulation<br/>
+CSS manipulation<br/>
+HTML event methods<br/>
+Effects and animations<br/>
+AJAX<br/>
+Utilities<br/></p>",
+    "Thumbnails": [
+      {
+        "FullURL": "https://s3-eu-west-1.amazonaws.com/ubmas-bucket/tmp/main-jquery.jpg"
+      },
+      {
+        "FullURL": "https://s3-eu-west-1.amazonaws.com/ubmas-bucket/tmp/main-jquery.jpg"
+      }
+    ],
+    "URLs": {
+      "www.youtube.com": "/CSS-tutorials/Building-Responsive-Single-Page-Design-PostCSS/417644-2.html"
+    },
+    "WelcomeVideoId": "PLIGDNOJWiL18vzVelXE7qbNYuJCkdg9Wp"
+  }
 ]
