@@ -1,8 +1,8 @@
 ---
 layout: blog
 category: blog
-Title: Node.js Differ From Other Frameworks?
-summary: Node.js Differ From Other Frameworks?
+Title: Javascript Style Guide ES5 write better Code?
+summary: Javascript Style Guide ES5 write better Code?
 heroimage: "https://code.support/wp-content/uploads/2016/04/js.png"
 tags :
 - designer
@@ -13,8 +13,6 @@ tags :
 # Airbnb JavaScript Style Guide() {
 
 *A mostly reasonable approach to JavaScript*
-
-
 
 ## Table of Contents
 
