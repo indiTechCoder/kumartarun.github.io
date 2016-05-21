@@ -327,5 +327,54 @@ The Ionic Platform has been built to work beautifully with apps built using the 
       "www.youtube.com": "/CSS-tutorials/Building-Responsive-Single-Page-Design-PostCSS/417644-2.html"
     },
     "WelcomeVideoId": "PLIGDNOJWiL19wVC5EKghMwbSlfF8jZJcB"
+  },
+    {
+    "ID": "BtVCYTbFGQQ",
+    "DurationInSeconds": 8587,
+    "Title": "Introduction of Gulp JS Build System ",
+    "ShortDescription": "Automate and enhance your workflow",
+    "Description": "<p>Easy to use<br/>
+By preferring code over configuration, gulp keeps things simple and makes complex tasks manageable.
+Efficient<br/>
+Using the power of node streams, gulp gives you fast builds that don't write intermediary files to disk.
+High Quality<br/>
+By enforcing strict plugin guidelines, we ensure that plugins stay simple and work as expected.
+Easy to Learn<br/>
+Using node best practices and maintaining a minimal API surface, your build works exactly as you would imagine.</p>",
+    "Thumbnails": [
+      {
+        "FullURL": "https://s3-eu-west-1.amazonaws.com/ubmas-bucket/tmp/main-gulp.jpg"
+      },
+      {
+        "FullURL": "https://s3-eu-west-1.amazonaws.com/ubmas-bucket/tmp/main-gulp.jpg"
+      }
+    ],
+    "URLs": {
+      "www.youtube.com": "/CSS-tutorials/Building-Responsive-Single-Page-Design-PostCSS/417644-2.html"
+    },
+    "WelcomeVideoId": "PLIGDNOJWiL1856Pb0uEWTdKDk-aLqn-ok"
+  },
+   {
+    "ID": "1y_yLVLj69M",
+    "DurationInSeconds": 8587,
+    "Title": "Introduction to Ajax ",
+    "ShortDescription": "AJAX stands for Asynchronous JavaScript and XML. In a nutshell, it is the use of the XMLHttpRequest object to communicate with server-side scripts. It can send as well as receive information in a variety of formats, including JSON, XML, HTML, and even text files.",
+    "Description": "<p>AJAX is a developer's dream, because you can:<br/>
+Update a web page without reloading the page <br/>
+Request data from a server - after the page has loaded  <br/>
+Receive data from a server - after the page has loaded <br/>
+Send data to a server - in the background <br/></p>",
+    "Thumbnails": [
+      {
+        "FullURL": "https://s3-eu-west-1.amazonaws.com/ubmas-bucket/tmp/main-ajax.png"
+      },
+      {
+        "FullURL": "https://s3-eu-west-1.amazonaws.com/ubmas-bucket/tmp/main-ajax.png"
+      }
+    ],
+    "URLs": {
+      "www.youtube.com": "/CSS-tutorials/Building-Responsive-Single-Page-Design-PostCSS/417644-2.html"
+    },
+    "WelcomeVideoId": "PLIGDNOJWiL19HepuwTrf8Q1hEcbKOkO5j"
   }
 ]
