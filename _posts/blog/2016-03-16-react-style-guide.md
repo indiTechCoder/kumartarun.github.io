@@ -2,7 +2,7 @@
 layout: blog
 category: blog
 Title: Style Guide React & ES5 code
-summary: write better code Style Guide React & ES5 code
+summary: write better code Style Guide React & ES5 code ,React is a JavaScript library for creating user interfaces by Facebook and Instagram. Many people choose to think of React as the V in MVC.We built React to solve one problem: building large applications with data that changes over time.
 heroimage: "http://blog.addthiscdn.com/wp-content/uploads/2014/11/addthis-react-flux-javascript-scaling.png"
 tags :
 - designer
