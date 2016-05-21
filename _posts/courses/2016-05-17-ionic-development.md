@@ -3,8 +3,8 @@ courseid: OMrAxI5cXm4
 layout: course
 category: courses
 tags:
-- ionic
-- angular
+- Ionic
+- Angular
 - Web components
 - Web App
 ---
