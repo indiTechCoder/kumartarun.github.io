@@ -279,5 +279,53 @@ Controlling readable streams<br/></p>",
       "www.youtube.com": "/CSS-tutorials/Building-Responsive-Single-Page-Design-PostCSS/417644-2.html"
     },
     "WelcomeVideoId": "PLIGDNOJWiL19JkDXy0bUmdKkuFgk-yhCy"
+  },
+  {
+    "ID": "KNgWHVKJ6AE",
+    "DurationInSeconds": 8587,
+    "Title": "Node  Json Web Token",
+    "ShortDescription": "JSON Web Tokens are an open, industry standard RFC 7519 method for representing claims securely between two parties.
+JWT.IO allows you to decode, verify and generate JWT.
+LEARN MORE ABOUT JWT",
+    "Description": "<p>JSON Web Token (JWT) is an open standard (RFC 7519) that defines a compact and self-contained way for securely transmitting information between parties as a JSON object. This information can be verified and trusted because it is digitally signed. JWTs can be signed using a secret (with the HMAC algorithm) or a public/private key pair using RSA.</p>",
+    "Thumbnails": [
+      {
+        "FullURL": "https://s3-eu-west-1.amazonaws.com/ubmas-bucket/tmp/main-jwt.png"
+      },
+      {
+        "FullURL": "https://s3-eu-west-1.amazonaws.com/ubmas-bucket/tmp/main-jwt.png"
+      }
+    ],
+    "URLs": {
+      "www.youtube.com": "/CSS-tutorials/Building-Responsive-Single-Page-Design-PostCSS/417644-2.html"
+    },
+    "WelcomeVideoId": "PLIGDNOJWiL19GI17sMIEtlaNCVhUhRFPH"
+  },
+  {
+    "ID": "OMrAxI5cXm4",
+    "DurationInSeconds": 8587,
+    "Title": "Introduction to Ionic framework application development ",
+    "ShortDescription": "Build and scale amazing mobile apps, the easy way.
+Cross-platform mobile services that help you nail the basics and focus on delivering top-notch apps.",
+    "Description": "<p>Powerful tools, all in one place<br/>
+The one central hub to engage with and manage your users, deploy live updates, and track your native builds.
+Developer focused<br/>
+Developers are at the heart of every great app. Our platform makes designing and developing apps a joy.
+Built with teams in mind<br/>
+Invite team members to collaborate on your Ionic apps with unique developer accounts and more.
+Designed to work seamlessly with Ionic Framework<br/>
+The Ionic Platform has been built to work beautifully with apps built using the open source Ionic Framework.</p>",
+    "Thumbnails": [
+      {
+        "FullURL": "https://s3-eu-west-1.amazonaws.com/ubmas-bucket/tmp/main-ionic.png"
+      },
+      {
+        "FullURL": "https://s3-eu-west-1.amazonaws.com/ubmas-bucket/tmp/main-ionic.png"
+      }
+    ],
+    "URLs": {
+      "www.youtube.com": "/CSS-tutorials/Building-Responsive-Single-Page-Design-PostCSS/417644-2.html"
+    },
+    "WelcomeVideoId": "PLIGDNOJWiL19wVC5EKghMwbSlfF8jZJcB"
   }
 ]
