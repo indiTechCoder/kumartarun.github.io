@@ -431,10 +431,10 @@ The Ionic Platform has been built to work beautifully with apps built using the 
     "Description": "<p>Recently Angularjs team has launched a 5 mins quick start tutorial on getting started with Angular 2.0. I have taken the same tutorial (with minor changes) and explained it below. There are a lot of blanks to be filled, but this is my first attempt at Angular 2.0.</p>",
     "Thumbnails": [
       {
-        "FullURL": "https://s3-eu-west-1.amazonaws.com/ubmas-bucket/tmp/main-ng22.png"
+        "FullURL": "https://s3-eu-west-1.amazonaws.com/ubmas-bucket/tmp/main-angularjscomingversion.png"
       },
       {
-        "FullURL": "https://s3-eu-west-1.amazonaws.com/ubmas-bucket/tmp/main-ng22.png"
+        "FullURL": "https://s3-eu-west-1.amazonaws.com/ubmas-bucket/tmp/main-angularjscomingversion.png"
       }
     ],
     "URLs": {
@@ -469,10 +469,10 @@ The Ionic Platform has been built to work beautifully with apps built using the 
     "Description": "<p>React is a library developed by Facebook, and it is designed to build large applications with data that changes over time. Developers can use ReactJS to create user interfaces (UI) with high performance, where React would automatically manage all UI updates. React is all about building reusable web components, and it also renders on the server using Node.js. Learn ReactJS through Codementor's Learning Center, where you can find tutorials, videos, guides, and ReactJS tips & tricks from experienced ReactJS developers.</p>",
     "Thumbnails": [
       {
-        "FullURL": "https://s3-eu-west-1.amazonaws.com/ubmas-bucket/tmp/main-reactjss.jpg"
+        "FullURL": "https://s3-eu-west-1.amazonaws.com/ubmas-bucket/tmp/main-routerreact.jpg"
       },
       {
-        "FullURL": "https://s3-eu-west-1.amazonaws.com/ubmas-bucket/tmp/main-reactjss.jpg"
+        "FullURL": "https://s3-eu-west-1.amazonaws.com/ubmas-bucket/tmp/main-routerreact.jpg"
       }
     ],
     "URLs": {
@@ -583,10 +583,10 @@ The Ionic Platform has been built to work beautifully with apps built using the 
       "Description":"<p>React.js is a JavaScript Library developed by Facebook that functions as the V in an MVC. Known for its fast performance with a Virtual DOM, React.js is especially _ideal for building mobile sites. What's more, since you can run React.js on the server, it's more SEO-friendly than other JavaScript Frameworks available. If you don't know JavaScript yet, you should probably start out with learning JavaScript.               To get a taste of how React works beyond a simple HelloWorld app, Facebook's official tutorial will teach you how to build your own realtime comment box with React. Once you have a feel for the library, you can go deeper and read the gu_ides on how to build interactive and dynamic UI, form components, and more.                If you're building a website that deals with dynamic data, it is highly recommended you follow the Flux architectural design, which promotes a single directional dataflow. When React is used with Flux, it brings you the functionality of an MVC. However, according to Facebook, current MVCs don't scale well with building additional features to a large codebase, so React + Flux was their solution.</p>",
       "Thumbnails":[  
          {  
-            "FullURL":"https://s3-eu-west-1.amazonaws.com/ubmas-bucket/tmp/Main-ReactJSES5JS.jpg"
+            "FullURL":"https://s3-eu-west-1.amazonaws.com/ubmas-bucket/tmp/Main-ReactJSES5js.jpg"
          },
          {  
-            "FullURL":"https://s3-eu-west-1.amazonaws.com/ubmas-bucket/tmp/Main-ReactJSES5JS.jpg"
+            "FullURL":"https://s3-eu-west-1.amazonaws.com/ubmas-bucket/tmp/Main-ReactJSES5js.jpg"
          }
       ],
       "URLs":{  
