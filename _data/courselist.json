@@ -7,10 +7,10 @@
     "Description": "<p>MongoDB and Node.js are often used together because of their shared use of JavaScript and its object notation (JSON). JSON is quickly becoming the standard data format for web APIs and, as such, these two technologies are growing in popularity. Mongoose is an object data modeling (ODM) library that provides a rigorous modeling environment for your data, enforcing structure as needed while still maintaining the flexibility that makes MongoDB powerful.</p>",
     "Thumbnails": [
       {
-        "FullURL": "https://s3-eu-west-1.amazonaws.com/ubmas-bucket/tmp/main-nodejs.jpg"
+        "FullURL": "https://s3-eu-west-1.amazonaws.com/ubmas-bucket/tmp/main-Nodejsss.jpg"
       },
       {
-        "FullURL": "https://s3-eu-west-1.amazonaws.com/ubmas-bucket/tmp/main-nodejs.jpg"
+        "FullURL": "https://s3-eu-west-1.amazonaws.com/ubmas-bucket/tmp/main-Nodejsss.jpg"
       }
     ],
     "URLs": {
@@ -555,5 +555,81 @@ The Ionic Platform has been built to work beautifully with apps built using the 
       "www.youtube.com": "/CSS-tutorials/Building-Responsive-Single-Page-Design-PostCSS/417644-2.html"
     },
     "WelcomeVideoId": "PLIGDNOJWiL18IgDrDzKw4xJYYtHg2FOuO"
-  }
-]
+  },
+   {  
+      "ID":"zZugnTPi9yI",
+      "DurationInSeconds":8587,
+      "Title":"Dev Ops Platform Containers",
+      "ShortDescription":"Learn how to get started with Docker and Amazon Web Services with tutorials.",
+      "Description":"<p>Docker is a technology that allows you to build, run, test, and deploy distributed applications that are based on Linux containers. Amazon ECS uses Docker images in task definitions to launch containers on EC2 instances in your clusters. For Amazon ECS product details, featured customer case studies</p>",
+      "Thumbnails":[  
+         {  
+            "FullURL":"https://s3-eu-west-1.amazonaws.com/ubmas-bucket/tmp/main-ec2ops.jpg"
+         },
+         {  
+            "FullURL":"https://s3-eu-west-1.amazonaws.com/ubmas-bucket/tmp/main-ec2ops.jpg"
+         }
+      ],
+      "URLs":{  
+         "www.youtube.com":"/CSS-tutorials/Building-Responsive-Single-Page-Design-PostCSS/417644-2.html"
+      },
+      "WelcomeV_ideo_id":"PLIGDNOJWiL19fuoAWicNQBD2DWionSkss"
+   },
+   {  
+      "ID":"uWIQ_6WgUNM",
+      "DurationInSeconds":8587,
+      "Title":"React JS Training series with ES5",
+      "ShortDescription":"React is a library developed by Facebook, and it is designed to build large applications with data that changes over time. Developers can use ReactJS to create user interfaces (UI) with high performance, where React would automatically manage all UI updates. React is all about building reusable web components, and it also renders on the server using Node.js. Learn ReactJS through online Learning Center, where you can find tutorials, v_ideos, gu_ides, and ReactJS tips & tricks from experienced ReactJS developers.",
+      "Description":"<p>eact.js is a JavaScript Library developed by Facebook that functions as the V in an MVC. Known for its fast performance with a Virtual DOM, React.js is especially _ideal for building mobile sites. What's more, since you can run React.js on the server, it's more SEO-friendly than other JavaScript Frameworks available. If you don't know JavaScript yet, you should probably start out with learning JavaScript.               To get a taste of how React works beyond a simple HelloWorld app, Facebook's official tutorial will teach you how to build your own realtime comment box with React. Once you have a feel for the library, you can go deeper and read the gu_ides on how to build interactive and dynamic UI, form components, and more.                If you're building a website that deals with dynamic data, it is highly recommended you follow the Flux architectural design, which promotes a single directional dataflow. When React is used with Flux, it brings you the functionality of an MVC. However, according to Facebook, current MVCs don't scale well with building additional features to a large codebase, so React + Flux was their solution.</p>",
+      "Thumbnails":[  
+         {  
+            "FullURL":"https://s3-eu-west-1.amazonaws.com/ubmas-bucket/tmp/main-ReactJSES555.png"
+         },
+         {  
+            "FullURL":"https://s3-eu-west-1.amazonaws.com/ubmas-bucket/tmp/main-ReactJSES555.png"
+         }
+      ],
+      "URLs":{  
+         "www.youtube.com":"/CSS-tutorials/Building-Responsive-Single-Page-Design-PostCSS/417644-2.html"
+      },
+      "WelcomeV_ideo_id":"PLIGDNOJWiL1_ndMWBpMvo8oAXuR7bjnWM"
+   },
+    {  
+      "ID":"d2zAHQRPYW8",
+      "DurationInSeconds":8587,
+      "Title":"Spring framework Training",
+      "ShortDescription":"Spring framework is an open source Java platform that provides comprehensive infrastructure support for developing robust Java applications very easily and very rapidly.",
+      "Description":"<p>The Spring Framework is an application framework and inversion of control container for the Java platform. The framework's core features can be used by any Java application, but there are extensions for building web applications on top of the Java EE platform. Although the framework does not impose any specific programming model, it has become popular in the Java community as an alternative to, replacement for, or even addition to the Enterprise JavaBeans EJB  model. The Spring Framework is open source.</p>",
+      "Thumbnails":[  
+         {  
+            "FullURL":"https://s3-eu-west-1.amazonaws.com/ubmas-bucket/tmp/main-SpringJava.jpg"
+         },
+         {  
+            "FullURL":"https://s3-eu-west-1.amazonaws.com/ubmas-bucket/tmp/main-SpringJava.jpg"
+         }
+      ],
+      "URLs":{  
+         "www.youtube.com":"/CSS-tutorials/Building-Responsive-Single-Page-Design-PostCSS/417644-2.html"
+      },
+      "WelcomeV_ideo_id":"PLIGDNOJWiL1-CpMam0hTsSSXElmOo23D4"
+   },
+   {  
+      "ID":"9NEYA15n2n8",
+      "DurationInSeconds":8587,
+      "Title":"Elastic Search Introduction and feature",
+      "ShortDescription":"Elasticsearch is a search server based on Lucene. It provides a distributed, multitenant-capable full-text search engine with an HTTP web interface and schema-free JSON documents. Elasticsearch is developed in Java and is released as open source under the terms of the Apache License. Elasticsearch is the most popular enterprise search engine followed by Apache Solr",
+      "Description":"<p>Elasticsearch is a search server based on Lucene. It provides a distributed, multitenant-capable full-text search engine with an HTTP web interface and schema-free JSON documents. Elasticsearch is developed in Java and is released as open source under the terms of the Apache License. Elasticsearch is the most popular enterprise search engine followed by Apache Solr</p>",
+      "Thumbnails":[  
+         {  
+            "FullURL":"https://s3-eu-west-1.amazonaws.com/ubmas-bucket/tmp/main-elastic.png"
+         },
+         {  
+            "FullURL":"https://s3-eu-west-1.amazonaws.com/ubmas-bucket/tmp/main-elastic.png"
+         }
+      ],
+      "URLs":{  
+         "www.youtube.com":"/CSS-tutorials/Building-Responsive-Single-Page-Design-PostCSS/417644-2.html"
+      },
+      "WelcomeV_ideo_id":"PLIGDNOJWiL18dVcKSrsqA8HzmwiBxrHYu"
+   }
+  ]
