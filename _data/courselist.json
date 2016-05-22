@@ -517,5 +517,43 @@ The Ionic Platform has been built to work beautifully with apps built using the 
       "www.youtube.com": "/CSS-tutorials/Building-Responsive-Single-Page-Design-PostCSS/417644-2.html"
     },
     "WelcomeVideoId": "PLIGDNOJWiL1-mMkyKk9iI5HeLytyXi40T"
+  },
+  {
+    "ID": "W2jz_Bu0CR0",
+    "DurationInSeconds": 8587,
+    "Title": "DevOps for developers ",
+    "ShortDescription": "DevOps (a clipped compound of development and operations) is a culture, movement or practice that emphasizes the collaboration and communication of both software developers and other information-technology (IT) professionals while automating the process of software delivery and infrastructure changes.",
+    "Description": "<p>In this course, we look at the necessity of Devops and how a DevOps transformation can help focus on value and streamlined delivery. We will also cover concepts like Automation and technology which play huge roles in DevOps success; in this course we'll analyze the major capability areas and which technologies can get your team on its way.</p>",
+    "Thumbnails": [
+      {
+        "FullURL": "https://s3-eu-west-1.amazonaws.com/ubmas-bucket/tmp/main-devopss.jpg"
+      },
+      {
+        "FullURL": "https://s3-eu-west-1.amazonaws.com/ubmas-bucket/tmp/main-devopss.jpg"
+      }
+    ],
+    "URLs": {
+      "www.youtube.com": "/CSS-tutorials/Building-Responsive-Single-Page-Design-PostCSS/417644-2.html"
+    },
+    "WelcomeVideoId": "PLIGDNOJWiL1-cNk-f2fFysgesRQ8l9dSw"
+  },
+    {
+    "ID": "MuPW017Tmwc",
+    "DurationInSeconds": 8587,
+    "Title": "Developing application using Angular 1.x ",
+    "ShortDescription": "AngularJS tutorial course covers the fundamental concepts of Angular like directives, routes, filters, services and factors that help you build rich user interface web apps. The course also encompasses many efficient Angular features like data binding, scope management, form validation, routing, i18n and a lot more. You will also get hands-on experience in implementing an AngularJS mean stack-based project  giving you a 360 degrees insight on the framework along with NodeJS.",
+    "Description": "<p>Boost your web application development skills and become an invaluable SPA (single page application) developer. Discover more about 2-way data binding, Google Chrome extensions, DOM manipulations and more to create and build your own applications using the popular Javascript MVC (model-view-controller) architecture and REST APIs.</p>",
+    "Thumbnails": [
+      {
+        "FullURL": "https://s3-eu-west-1.amazonaws.com/ubmas-bucket/tmp/main-angular1.xx.jpg"
+      },
+      {
+        "FullURL": "https://s3-eu-west-1.amazonaws.com/ubmas-bucket/tmp/main-angular1.xx.jpg"
+      }
+    ],
+    "URLs": {
+      "www.youtube.com": "/CSS-tutorials/Building-Responsive-Single-Page-Design-PostCSS/417644-2.html"
+    },
+    "WelcomeVideoId": "PLIGDNOJWiL18IgDrDzKw4xJYYtHg2FOuO"
   }
 ]
