@@ -583,10 +583,10 @@ The Ionic Platform has been built to work beautifully with apps built using the 
       "Description":"<p>eact.js is a JavaScript Library developed by Facebook that functions as the V in an MVC. Known for its fast performance with a Virtual DOM, React.js is especially _ideal for building mobile sites. What's more, since you can run React.js on the server, it's more SEO-friendly than other JavaScript Frameworks available. If you don't know JavaScript yet, you should probably start out with learning JavaScript.               To get a taste of how React works beyond a simple HelloWorld app, Facebook's official tutorial will teach you how to build your own realtime comment box with React. Once you have a feel for the library, you can go deeper and read the gu_ides on how to build interactive and dynamic UI, form components, and more.                If you're building a website that deals with dynamic data, it is highly recommended you follow the Flux architectural design, which promotes a single directional dataflow. When React is used with Flux, it brings you the functionality of an MVC. However, according to Facebook, current MVCs don't scale well with building additional features to a large codebase, so React + Flux was their solution.</p>",
       "Thumbnails":[  
          {  
-            "FullURL":"https://s3-eu-west-1.amazonaws.com/ubmas-bucket/tmp/main-React-js-es.png"
+            "FullURL":"https://s3-eu-west-1.amazonaws.com/ubmas-bucket/tmp/reacttt.png"
          },
          {  
-            "FullURL":"https://s3-eu-west-1.amazonaws.com/ubmas-bucket/tmp/main-React-js-es.png"
+            "FullURL":"https://s3-eu-west-1.amazonaws.com/ubmas-bucket/tmp/reacttt.png"
          }
       ],
       "URLs":{  
